@@ -111,7 +111,7 @@
     "EcsCluster" : {
       "Type" : "String",
       "Description" : "ECS Cluster Name",
-      "Default" : "Democluster"
+      "Default" : "sampcluster"
     }
   },
   "Conditions": {
