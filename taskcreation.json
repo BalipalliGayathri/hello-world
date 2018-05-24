@@ -1,7 +1,7 @@
 {
 "containerDefinitions": [
 {
-"name": "wordpress_test",
+"name": "wordpress",
 "links": [
 "mysql"
 ],
@@ -23,14 +23,12 @@
 "value": "password"
 }
 ],
-"name": "mysql_test",
+"name": "mysql",
 "image": "mysql",
 "cpu": 10,
 "memory": 500,
 "essential": true
 }
 ],
-"family": "hello_world_test"
+"family": "hello_world"
 }
-
-
