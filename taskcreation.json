@@ -2,7 +2,7 @@
 "containerDefinitions": [
 {
 "name": "nodejs",
-"image": "docker.io/gkotha/devnode",
+"image": "041298212360.dkr.ecr.us-east-1.amazonaws.com/backend",
 "essential": true,
 "portMappings": [
 {
